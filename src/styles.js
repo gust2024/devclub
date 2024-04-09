@@ -11,6 +11,10 @@ export const Container = styled.div`
     gap: 40px;
 `;
 
+export const ContainerItens = styled.div`
+  
+`;
+
 export const Image = styled.img`
     margin-top: 30px;
 `;
